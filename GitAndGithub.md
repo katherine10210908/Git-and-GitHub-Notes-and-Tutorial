@@ -38,3 +38,4 @@ Main -> production
 1. Create branch MC
 2. write "this is written on main" on main branch
 3. write this is written on mc on mc branch 
+"This is written on main"
