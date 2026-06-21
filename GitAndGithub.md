@@ -34,4 +34,7 @@ Main -> production
 ## Merge Conflicts 
 ### 1. Check current branch
 `git branch`
-###
+### 2. Create intentional MC
+1. Create branch MC
+2. write "this is written on main" on main branch
+3. write this is written on mc on mc branch 
