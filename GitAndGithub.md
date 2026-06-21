@@ -40,3 +40,7 @@ Main -> production
 3. write this is written on mc on mc branch 
 "This is written on main"
 "this is written on MC"
+
+## Pull Requests
+Collaboraters will pull codes from different branches to review and test its code before it is merged to the main branch.
+"this is a some code to test pull request."
